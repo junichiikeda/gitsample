@@ -27,7 +27,7 @@ for ($i = 1; $i <=10000; $i++) {
 echo $total ."\n";
 
 // 課題3
-$fruites = array("apple", "orange", "lemon", "grape", "tomato");
+$fruites = ["apple", "orange", "lemon", "grape", "tomato"];
 foreach ($fruites as $fruite) {
     echo $fruite; 
     echo "\n";
